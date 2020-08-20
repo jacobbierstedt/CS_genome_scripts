@@ -1,0 +1,1 @@
+This software only works on a specific version of the snappping turtle gff, but the basic idea may be useful to someone with similar annotation problems.
